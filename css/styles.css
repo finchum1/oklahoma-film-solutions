@@ -21,6 +21,7 @@
   --accent: #f2a51c;
   --accent-strong: #ffb92e;
   --accent-text: #191207;
+  --logo-gold: #ffab26; /* sampled from the OFS mark's brightest gold */
 
   /* ---- type ---- */
   --font-display: "Space Grotesk", "Segoe UI", sans-serif;
@@ -387,7 +388,7 @@ section {
 
 .hero-tagline em {
   font-style: normal;
-  color: var(--accent);
+  color: var(--logo-gold);
 }
 
 .hero-sub {
