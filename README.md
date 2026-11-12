@@ -18,8 +18,8 @@ Search the project for these and swap in the real values:
 
 - **Phone number** — done: `(405) 761-9988` / `tel:+14057619988` (nav, CTA banner, contact
   section, footer).
-- **Email** — currently `dispatch@oklahomafilmsolutions.com` (contact section, footer, and the
-  form's mailto target in `js/main.js`).
+- **Email** — set to `terrencefinchum@gmail.com` for now (contact section and the form's mailto
+  target in `js/main.js`). Swap in a business address when there is one.
 - **Service area** — currently "Statewide across Oklahoma, based out of the OKC metro."
 - **License badge text** — currently generic "Licensed / Insured / Bonded" pills. If you want to
   cite an actual license number or issuing board, add it near the badges in the Contact section.

@@ -155,7 +155,7 @@
         "Job details:\n" + (data.message || "-");
 
       var mailto =
-        "mailto:dispatch@oklahomafilmsolutions.com" +
+        "mailto:terrencefinchum@gmail.com" +
         "?subject=" + encodeURIComponent("Service request: " + data.service + " (" + data.name + ")") +
         "&body=" + encodeURIComponent(body);
 
