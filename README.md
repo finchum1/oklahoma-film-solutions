@@ -16,8 +16,8 @@ images/            generated hero + supporting photography (JPEG, optimized)
 
 Search the project for these and swap in the real values:
 
-- **Phone number** — currently `(405) 555-0142` / `tel:+14055550142` (nav, hero, CTA banner,
-  contact section, footer).
+- **Phone number** — done: `(405) 761-9988` / `tel:+14057619988` (nav, CTA banner, contact
+  section, footer).
 - **Email** — currently `dispatch@oklahomafilmsolutions.com` (contact section, footer, and the
   form's mailto target in `js/main.js`).
 - **Service area** — currently "Statewide across Oklahoma, based out of the OKC metro."
